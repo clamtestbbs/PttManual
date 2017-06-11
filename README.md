@@ -2,7 +2,7 @@
 
 This repository is an experimental project.
 
-This content is origin from [PttBBS](http://github.com/ptt/pttbbs).
+This content is origin from [PttBBS](https://www.ptt.cc/man/PttNewhand/DAE3/index.html).
 
 ## 安裝方法:
 
@@ -41,4 +41,5 @@ This content is origin from [PttBBS](http://github.com/ptt/pttbbs).
 
 # 相關版權宣告 (by Ptt站方聲明)
 
-    《完全批踢踢使用者手冊》手冊根據 Ptt Open Source 的精神，所有使用 PttCurrent 的機器以及使用者，均可使用本手冊。各 BBS 站台並可根據該站台特性，將本手冊做適度修改，以符合該站之各式功能按鍵及風格。
+    《完全批踢踢使用者手冊》系列手冊根據 Ptt Open Source 的精神，所有使用 PttCurrent 的機器以及使用者，均可使用本手冊。各 BBS 站台並可根據該站台特性，將本手冊做適度修改，以符合該站之各式功能按鍵及風格。
+
