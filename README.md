@@ -30,7 +30,7 @@ This content is origin from [PttBBS](https://www.ptt.cc/man/PttNewhand/DAE3/inde
 
 登入站務介面，到 `(A)nnounce【 精華公佈欄 】` 按小g 建立目錄，並將該目錄檔名記錄下來
 
-進入自己主機的 **bbsadm** 帳號, `cd ~/man/;rm `【該目錄檔名】` `
+進入自己主機的 **bbsadm** 帳號, `cd ~/man/;rm `【原目錄檔名】` `
 
 以相關系統指令 `ln -s ~/man/boards/P/PttManual/D6B0 `【原被刪目錄的檔名】` `
 
