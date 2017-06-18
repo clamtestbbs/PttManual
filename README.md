@@ -32,7 +32,7 @@ This content is origin from [PttBBS](https://www.ptt.cc/man/PttNewhand/DAE3/inde
 
 進入自己主機的 **bbsadm** 帳號, `cd ~/man/;rm `【該目錄檔名】` `
 
-以相關系統指令 `ln -s ~/man/boards/P/PttManual/D6B0 `【幫該symlink取的名稱】` `
+以相關系統指令 `ln -s ~/man/boards/P/PttManual/D6B0 `【原被刪目錄的檔名】` `
 
 將原本只在 PttManual 板精華區的完全使用手冊連結至公佈欄給站台內其他使用者參考
 
