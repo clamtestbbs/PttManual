@@ -52,11 +52,12 @@
   2004.07.15 (中華民國93年07月15日)  by okcool/lpyd
   2007.01.28 (中華民國96年01月28日)  by lpyd
   2011.04.25 (中華民國100年04月25日) by ymsgcat
+  2017.06.23 (中華民國100年04月25日) by r2.bbs@clamtestbbs.ddns.net
 
   程式版本
   ────
 
-  PttCurrent (rev 3481)
+  PttCurrent (http://github.com/ptt/pttbbs  53847769)
 
 
   版權宣告
@@ -66,3 +67,11 @@
   本系列手冊根據 Ptt Open Source 的精神，所有使用 PttCurrent 的機器以及使
 用者，均可使用本手冊。各 BBS 站台並可根據該站台特性，將本手冊做適度修改，
 以符合該站之各式功能按鍵及風格。
+
+--
+
+CHANGELOG:
+
+1.註冊帳號介面更新, 補充保留天數資訊 (6/23)
+2.排版頁末皆多加一空行以利pmore介面閱讀 (6/23)
+3.統一"Ctrl+按鍵"樣式
