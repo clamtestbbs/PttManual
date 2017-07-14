@@ -1,5 +1,6 @@
-<br><br>
 # 完全批踢踢使用手冊
+
+Project Link: https://github.com/holishing/PttManual
 
 This repository is an experimental project.
 
