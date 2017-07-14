@@ -27,7 +27,7 @@ Encoding: Big-5 (for BBS system)
 
 回去工作站, 將該目錄刪除後, 建立相同檔名的 symbolic link
 
-`$ rm -r <目錄檔名>; ln -s PttManual <檔名與原目錄相同的symbolic link>
+`$ rm -r <目錄檔名>; ln -s PttManual <檔名與原目錄相同的symbolic link>`
 
 ### 4.完成!!
 
@@ -38,9 +38,13 @@ Encoding: Big-5 (for BBS system)
 
 登入站務介面，到 `(A)nnounce【 精華公佈欄 】` 按小g 建立目錄，並將該目錄檔名記錄下來
 
-進入自己主機的 **bbsadm** 帳號, `cd ~/man/;rm `【原目錄檔名】` `
+進入自己主機的 **bbsadm** 帳號,
 
-以相關系統指令 `ln -s ~/man/boards/<板名開頭字母>/<你匯入的板名>/PttManual `【原被刪目錄的檔名】` `
+`$ cd ~/man/;rm `【原目錄檔名】` `
+
+以相關系統指令
+
+`$ ln -s ~/man/boards/<板名開頭字母>/<你匯入的板名>/PttManual `【原被刪目錄的檔名】` `
 
 將原本只在 PttManual 板精華區的完全使用手冊連結至公佈欄給站台內其他使用者參考
 
