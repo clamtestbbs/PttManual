@@ -40,11 +40,11 @@ Encoding: Big-5 (for BBS system)
 
 進入自己主機的 **bbsadm** 帳號,
 
-`$ cd ~/man/;rm `【原目錄檔名】` `
+`$ cd ~/man/;rm <原目錄檔名> `
 
 以相關系統指令
 
-`$ ln -s ~/man/boards/<板名開頭字母>/<你匯入的板名>/PttManual `【原被刪目錄的檔名】` `
+`$ ln -s ~/man/boards/<板名開頭字母>/<你匯入的板名>/PttManual <原被刪目錄的檔名> `
 
 將原本只在 PttManual 板精華區的完全使用手冊連結至公佈欄給站台內其他使用者參考
 
