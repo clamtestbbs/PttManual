@@ -54,9 +54,11 @@ Encoding: Big-5 (for BBS system)
 
 ***
 
-CHANGELOG:
+## CHANGELOG:
 
 1.註冊帳號介面更新, 補充保留天數資訊 (6/23)
+
 2.排版頁末皆多加一空行以利pmore介面閱讀 (6/23)
+
 3.統一"Ctrl+按鍵"樣式
 
