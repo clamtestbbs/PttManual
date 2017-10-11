@@ -1,6 +1,6 @@
 # 完全批踢踢使用手冊
 
-Project Link: [https://github.com/holishing/PttManual](https://github.com/holishing/PttManual)
+Project Link: [https://github.com/clamtestbbs/PttManual](https://github.com/clamtestbbs/PttManual)
 
 This repository is an experimental project.
 
@@ -19,7 +19,7 @@ This content is origin from [PttBBS](https://www.ptt.cc/man/PttNewhand/DAE3/inde
 
 `$ cd ~/man/boards/P/`
 
-`$ git clone https://github.com/holishing/PttManual`
+`$ git clone https://github.com/clamtestbbs/PttManual`
 
 ### 3. 利用 BBS 連線軟體登入自己帳號後，至自己有管理權限的合適群組按大寫 R 開板
 
